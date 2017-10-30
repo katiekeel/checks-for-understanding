@@ -28,4 +28,4 @@ Note: When you're done, submit a PR.
 * Abstraction, encapsulation, inheritance, polymorphism
 10. What's a module in Ruby and what's the difference between a class and a module?
 * A module is a way to provide common methods to two similar but distinct classes
-* Classes are a way to emulate real-life objects
+* Classes are a way to emulate real-life objects and/or groups of related methods that perform similar tasks
